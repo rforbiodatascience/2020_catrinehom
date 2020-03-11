@@ -1,8 +1,6 @@
 Reproducible Data Analysis Framework Exercise
 ================
 
-`{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE)`
-
 ## Description
 
-Empty right now
+GitHub repository for the Reproducible Data Analysis Framework Exercise at the DTU course 22100 R for Bio Data Science
